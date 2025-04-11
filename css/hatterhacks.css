@@ -9,7 +9,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 /*
- * Primary Brand Color: #4635B1
+ * Primary Brand Color: #024CAA
  */
 
 * {
@@ -18,7 +18,7 @@
 }
 
 body {
-  background-color: #4635B1;
+  background-color: #024CAA;
   color: #ffffff;
 }
 
@@ -46,7 +46,7 @@ section {
  */
 
 .hero {
-  background-color: #4635B1;
+  background-color: #024CAA;
   min-height: 110vh;
 }
 
@@ -97,7 +97,7 @@ section {
   background: #ffffff;
   border: 10px solid #ffffff;
   border-radius: 40px;
-  color: #4635B1;
+  color: #024CAA;
   display: inline-block;
   font-family: 'Montserrat';
   font-size: 24px;
@@ -109,7 +109,7 @@ section {
 
 .hero .buttons a:hover,
 .hero .buttons a:focus {
-  background-color: #4635B1;
+  background-color: #024CAA;
   color: #ffffff;
   transition: all 0.2s ease;
 }
@@ -130,7 +130,7 @@ section {
 }
 
 .about p {
-  color: #4635B1;
+  color: #024CAA;
   font-weight: 600;
   font-size: 22px;
   line-height: 1.6em;
@@ -162,7 +162,7 @@ section {
   font-size: 45px;
   font-weight: 700;
   margin: 20px 0;
-  color: #4635B1;
+  color: #024CAA;
 }
 
 .info .item img {
@@ -171,7 +171,7 @@ section {
 
 .info .item p {
   font-size: 20px;
-  color: #4635B1;
+  color: #024CAA;
 }
 
 /*
@@ -189,7 +189,7 @@ section {
 .faq .question h2 {
   font-family: 'Montserrat';
   font-weight: 700;
-  color: #4635B1;
+  color: #024CAA;
 }
 
 .faq h1 {
@@ -201,7 +201,7 @@ section {
 }
 
 .faq .question hr {
-  border-top: 8px solid #4635B1;
+  border-top: 8px solid #024CAA;
   margin: 20px 0;
   width: 80px;
 }
@@ -209,7 +209,7 @@ section {
 .faq .question p {
   font-size: 18px;
   line-height: 1.5em;
-  color: #4635B1;
+  color: #024CAA;
 }
 
 .faq img {
@@ -223,7 +223,7 @@ section {
  */
 
 .footer {
-  background-color: #4635B1;
+  background-color: #024CAA;
   color: #ffffff;
   padding: 30px 0;
 }
