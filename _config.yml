@@ -35,8 +35,8 @@ seo:
 
 # Event information.
 event:
-  name:        "HatterHacks"
-  description: "Where all hats fit"
+  name:        "HatterFlags"
+  description: "Hat out of the bag"
   date:        "Fall 2025"
   location:    "DeLand, FL, United States"
 
